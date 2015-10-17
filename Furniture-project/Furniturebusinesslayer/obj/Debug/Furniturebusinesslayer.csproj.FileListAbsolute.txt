@@ -1,0 +1,7 @@
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\bin\Debug\Furniturebusinesslayer.dll
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\bin\Debug\Furniturebusinesslayer.pdb
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\obj\Debug\Furniturebusinesslayer.dll
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\obj\Debug\Furniturebusinesslayer.pdb
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\bin\Debug\Furnituredatalayer.dll
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\bin\Debug\Furnituredatalayer.pdb
+D:\designing\AAA DOT NET PROJRCT MY\furniture my project\Furniture-project\Furniturebusinesslayer\obj\Debug\Furniturebusinesslayer.csprojResolveAssemblyReference.cache
